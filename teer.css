@@ -1,0 +1,10 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    height: 200px;
+    align-items: baseline;
+
+}

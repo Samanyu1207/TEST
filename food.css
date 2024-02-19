@@ -1,0 +1,11 @@
+body{
+    background-image: url(./paneer.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text1{
+    color: rgb(254, 253, 253);
+    text-decoration-line: underline;
+    font-size: 30px;
+    text-align: center;
+}
